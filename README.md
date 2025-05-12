@@ -1,4 +1,14 @@
-## Bem-vindo(a) ao perfil do Alex Junior Camilo 😁
+👋 Olá!
+Sou Alex, formado em Engenharia Civil e estou em transição de carreira para o desenvolvimento Front-End. Tenho me dedicado ao aprendizado prático com:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-log" />
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo"/>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+<br>
+além de controle de versão com Git/GitHub. Busco oportunidades como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos, evoluir com o time e contribuir com soluções reais.
+<br>
+<br>
 
  <div>
    <a href="https://github.com/alexcjrr">
